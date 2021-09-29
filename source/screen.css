@@ -11,7 +11,7 @@ body {
 #main {
  
   background: url('./background.gif');
-   text-align: left;
+   text-align: center;
     width: 1000px; //any width you want
      margin-left: auto;
     margin-right: auto;
