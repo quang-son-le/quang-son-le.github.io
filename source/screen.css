@@ -9,10 +9,11 @@ body {
 }
 
 #main {
-  width: 804px;
+ 
   background: url('./background.gif');
-  margin-left:0 auto;
-  margin-right:0 auto;
+   text-align: left;
+    width: 1000px; //any width you want
+    margin: 0 auto;
 }
 
 #menu {
