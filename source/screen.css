@@ -13,7 +13,9 @@ body {
   background: url('./background.gif');
    text-align: left;
     width: 1000px; //any width you want
-    margin: 0 auto;
+     margin-left: auto;
+    margin-right: auto;
+    width: 8em
 }
 
 #menu {
